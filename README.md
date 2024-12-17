@@ -1,6 +1,10 @@
 # FibFormer
 The source code of FibFormer
 
+## Structure
+
+![structure](structure.svg)
+
 ## Environment
 
 CUDA Version: 12.2
