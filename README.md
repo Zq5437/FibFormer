@@ -3,7 +3,7 @@ The source code of FibFormer
 
 ## Structure
 
-![structure](structure.svg)
+![structure](structure.png)
 
 ## Environment
 
